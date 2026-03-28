@@ -1,6 +1,5 @@
 Good morning, Christian.
 
-System online.
-Youre connected.
+What will you touch today?
 
-Continue.
+(signal, system, or idea?)
